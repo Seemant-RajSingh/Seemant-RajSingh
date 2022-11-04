@@ -1,4 +1,4 @@
-### Beginner front end web developer with hands on experience with html, css and javaScript.
+### Web developer | Problem Solving | Tech enthusiast 🤓| DSCE Bangalore
 
 <!--
 **Seemant-RajSingh/Seemant-RajSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
